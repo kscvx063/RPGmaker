@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"田园镇东","order":2,"parentId":0,"scrollX":1158,"scrollY":743},
+{"id":2,"expanded":false,"name":"开场对白","order":1,"parentId":0,"scrollX":1158,"scrollY":743},
+{"id":3,"expanded":false,"name":"主角屋子","order":3,"parentId":1,"scrollX":1158,"scrollY":743},
+{"id":4,"expanded":true,"name":"田园镇","order":4,"parentId":0,"scrollX":1142,"scrollY":731},
+{"id":5,"expanded":true,"name":"田园镇过道","order":5,"parentId":4,"scrollX":1158,"scrollY":727}
+]
